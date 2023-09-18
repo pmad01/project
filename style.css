@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+    width: 700px;
+    vertical-align: top;
+    text-align: justify;
+}
+
+.text {
+    text-align: justify;
+}
+
+.box {
+    margin: 0 10px;
+}
