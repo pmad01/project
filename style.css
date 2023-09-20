@@ -15,4 +15,6 @@ body {
 
 .box {
     margin: 0 10px;
+    width: auto;
+    height: auto;
 }
